@@ -1,13 +1,13 @@
-package com.king.farrariapi;
+package com.king.ferrariapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class FarrariapiApplication {
+public class FerrariapiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(FarrariapiApplication.class, args);
+        SpringApplication.run(FerrariapiApplication.class, args);
     }
 
 }
